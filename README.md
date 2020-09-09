@@ -1,3 +1,5 @@
 # CS50 Section
 
-Submit your section exercises (tinyurl.com/phyllis-cs50)[here]!
+Section materials for Phyllis Zhang's CS50 Section; section materials will be updated each week!
+
+Submit your section exercises [here](tinyurl.com/phyllis-cs50)!
