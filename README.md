@@ -6,4 +6,4 @@ Submit your section exercises [here](https://tinyurl.com/phyllis-cs50) and any c
 
 **09/12 Tutorials**
 
-Currently in flux – will update this page with more information. If you're intending to come to my tutorials, please do not sign up yet.
+I’ll have tutorials at 4 - 6 ET tomorrow during Albert Zhu’s usual tutorials at my [usual tutorial link](https://vault.cs50.io/a9978f07-6ad0-4c9d-a29e-0c2468e6d124). For now, you can probably hold off on signing up the section links are changed!
