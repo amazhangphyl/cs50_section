@@ -5,30 +5,6 @@
         <link href="styles.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet"> 
         <script>
-            document.addEventListener('DOMContentLoaded', function() {
-
-                let correct = document.querySelector('.correct');
-                correct.addEventListener('click', function() {
-                    correct.style.backgroundColor = '#60ebcf';
-                });
-
-                let incorrects = document.querySelectorAll('.incorrect');
-                for (let i = 0; i < incorrects.length; i++) {
-                    incorrects[i].addEventListener('click', function() {
-                        incorrects[i].style.backgroundColor = '#ff5252';
-                    });
-                }
-
-                document.querySelector('#check').addEventListener('click', function() {
-                    let input = document.querySelector('input');
-                    if (input.value == 'Australia') {
-                        input.style.backgroundColor = '#60ebcf';
-                    } else {
-                        input.style.backgroundColor = '#ff5252';
-                    }
-                });
-
-            });
         </script>   
     </head>
     <body>
@@ -43,29 +19,17 @@
             <table>
                 <tr>
                     <td>
-                        <h3>Random Number Generator</h3>
-                        <button id="number" onclick="number()"><br></button>
                     </td>
                     <td>
-                        <h3>Random Fruit Generator</h3>
-                        <button id="fruit" onclick="fruit()"><br></button>
                     </td>
                     <td>
-                        <h3>Random Color Generator</h3>
-                        <button id="color" onclick="color()"><br></button>
                     </td>
                 </tr>
             </table>
             <hr>
             <h3>Which of the following tennis players has the most career aces?</h3>
-            <button class="incorrect">Dominic Thiem</button>
-            <button class="incorrect">Rafael Nadal</button>
-            <button class="incorrect">Novak Djokovic</button>
-            <button class="correct">Roger Federer</button>
-            <hr>
+            
             <h3>Which country is famous for their trees having emails? People often email these trees thanking them for providing oxygen.</h3>
-            <input type="text"></input>
-            <button id="check">Check Answer</button>
         </div>
     </body>
 </html>
