@@ -1,0 +1,38 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+}
+
+button{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #bfe0ff;
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+}
+
+.header{
+    background-color: dodgerblue;
+    color: white;
+    padding: 2rem;
+}
+
+.container{
+    width: 100%;
+}
+
+img{
+    width: 300px;
+    height: 450px;
+}
+
+table{
+    text-align: center;
+    margin: auto;
+    table-layout: fixed;
+}
+
