@@ -25,13 +25,7 @@
 * Public IP addresses actually go out onto the internet, while private IP addresses do not. 
   
   * Private IP addresses have these formats: `10.#.#.#`, `172.16.#.#` - `172.31.#.#`, and `192.168.#.#`.
-  
-  * We can find our own IP addresses in our System Preferences or Settings. Below is a screenshot from a Windows 10 PC.
-
-    ![ip](ipdns.png)
-
-    * Note that the IP address begins with `192.168`, meaning it is a private IP address.
-  
+    
   * The router in our home or in the company stops private IP addresses from being routed publicly, a *firewalling mechanism*. 
   
     * Virtually, a firewall is a piece of software that prevents zeroes and ones from going from one place to another. 
