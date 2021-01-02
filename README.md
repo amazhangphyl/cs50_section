@@ -1,4 +1,4 @@
-# CS50 Section
+# CS50 Section – 2020
 
 Section materials for Phyllis Zhang's CS50 Section; section materials will be updated each week!
 
