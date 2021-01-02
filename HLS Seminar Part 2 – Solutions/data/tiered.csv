@@ -1,0 +1,1501 @@
+par_pctile,tier_name,tier,count
+0,Ivy Plus,1,135
+0,Other elite schools (public and private),2,436
+0,Highly selective public,3,894
+0,Highly selective private,4,254
+0,Selective public,5,6335
+0,Selective private,6,1471
+0,Nonselective four-year public,7,1471
+0,Nonselective four-year private not-for-profit,8,282
+0,Two-year (public and private not-for-profit),9,12036
+0,Four-year for-profit,10,1075
+0,Two-year for-profit,11,359
+0,Less than two-year schools of any type,12,82
+0,Attending college with insufficient data,13,9648
+0,Late attender (ages 23-28),14,17004
+0,Never attended college (before year 2013),15,56090
+1,Ivy Plus,1,81
+1,Other elite schools (public and private),2,331
+1,Highly selective public,3,816
+1,Highly selective private,4,208
+1,Selective public,5,6255
+1,Selective private,6,1352
+1,Nonselective four-year public,7,1636
+1,Nonselective four-year private not-for-profit,8,274
+1,Two-year (public and private not-for-profit),9,12616
+1,Four-year for-profit,10,1066
+1,Two-year for-profit,11,395
+1,Less than two-year schools of any type,12,96
+1,Attending college with insufficient data,13,9655
+1,Late attender (ages 23-28),14,17849
+1,Never attended college (before year 2013),15,54943
+2,Ivy Plus,1,93
+2,Other elite schools (public and private),2,320
+2,Highly selective public,3,815
+2,Highly selective private,4,247
+2,Selective public,5,6470
+2,Selective private,6,1357
+2,Nonselective four-year public,7,1738
+2,Nonselective four-year private not-for-profit,8,301
+2,Two-year (public and private not-for-profit),9,13023
+2,Four-year for-profit,10,1241
+2,Two-year for-profit,11,373
+2,Less than two-year schools of any type,12,103
+2,Attending college with insufficient data,13,9653
+2,Late attender (ages 23-28),14,17658
+2,Never attended college (before year 2013),15,54182
+3,Ivy Plus,1,88
+3,Other elite schools (public and private),2,336
+3,Highly selective public,3,888
+3,Highly selective private,4,223
+3,Selective public,5,6879
+3,Selective private,6,1449
+3,Nonselective four-year public,7,1866
+3,Nonselective four-year private not-for-profit,8,262
+3,Two-year (public and private not-for-profit),9,13511
+3,Four-year for-profit,10,1244
+3,Two-year for-profit,11,452
+3,Less than two-year schools of any type,12,98
+3,Attending college with insufficient data,13,9799
+3,Late attender (ages 23-28),14,17136
+3,Never attended college (before year 2013),15,53342
+4,Ivy Plus,1,98
+4,Other elite schools (public and private),2,382
+4,Highly selective public,3,865
+4,Highly selective private,4,241
+4,Selective public,5,7219
+4,Selective private,6,1490
+4,Nonselective four-year public,7,2008
+4,Nonselective four-year private not-for-profit,8,279
+4,Two-year (public and private not-for-profit),9,13627
+4,Four-year for-profit,10,1193
+4,Two-year for-profit,11,405
+4,Less than two-year schools of any type,12,124
+4,Attending college with insufficient data,13,10141
+4,Late attender (ages 23-28),14,17104
+4,Never attended college (before year 2013),15,52398
+5,Ivy Plus,1,91
+5,Other elite schools (public and private),2,337
+5,Highly selective public,3,949
+5,Highly selective private,4,225
+5,Selective public,5,7337
+5,Selective private,6,1535
+5,Nonselective four-year public,7,2088
+5,Nonselective four-year private not-for-profit,8,285
+5,Two-year (public and private not-for-profit),9,13729
+5,Four-year for-profit,10,1336
+5,Two-year for-profit,11,426
+5,Less than two-year schools of any type,12,107
+5,Attending college with insufficient data,13,10406
+5,Late attender (ages 23-28),14,16947
+5,Never attended college (before year 2013),15,51775
+6,Ivy Plus,1,89
+6,Other elite schools (public and private),2,362
+6,Highly selective public,3,944
+6,Highly selective private,4,247
+6,Selective public,5,7581
+6,Selective private,6,1526
+6,Nonselective four-year public,7,2229
+6,Nonselective four-year private not-for-profit,8,249
+6,Two-year (public and private not-for-profit),9,14110
+6,Four-year for-profit,10,1339
+6,Two-year for-profit,11,420
+6,Less than two-year schools of any type,12,99
+6,Attending college with insufficient data,13,10225
+6,Late attender (ages 23-28),14,16709
+6,Never attended college (before year 2013),15,51445
+7,Ivy Plus,1,88
+7,Other elite schools (public and private),2,359
+7,Highly selective public,3,941
+7,Highly selective private,4,290
+7,Selective public,5,7693
+7,Selective private,6,1579
+7,Nonselective four-year public,7,2276
+7,Nonselective four-year private not-for-profit,8,298
+7,Two-year (public and private not-for-profit),9,14341
+7,Four-year for-profit,10,1298
+7,Two-year for-profit,11,433
+7,Less than two-year schools of any type,12,88
+7,Attending college with insufficient data,13,10592
+7,Late attender (ages 23-28),14,16672
+7,Never attended college (before year 2013),15,50626
+8,Ivy Plus,1,97
+8,Other elite schools (public and private),2,386
+8,Highly selective public,3,999
+8,Highly selective private,4,233
+8,Selective public,5,7808
+8,Selective private,6,1651
+8,Nonselective four-year public,7,2171
+8,Nonselective four-year private not-for-profit,8,270
+8,Two-year (public and private not-for-profit),9,14467
+8,Four-year for-profit,10,1334
+8,Two-year for-profit,11,428
+8,Less than two-year schools of any type,12,109
+8,Attending college with insufficient data,13,10604
+8,Late attender (ages 23-28),14,16743
+8,Never attended college (before year 2013),15,50273
+9,Ivy Plus,1,80
+9,Other elite schools (public and private),2,366
+9,Highly selective public,3,1099
+9,Highly selective private,4,262
+9,Selective public,5,8125
+9,Selective private,6,1621
+9,Nonselective four-year public,7,2289
+9,Nonselective four-year private not-for-profit,8,289
+9,Two-year (public and private not-for-profit),9,14605
+9,Four-year for-profit,10,1290
+9,Two-year for-profit,11,477
+9,Less than two-year schools of any type,12,105
+9,Attending college with insufficient data,13,10581
+9,Late attender (ages 23-28),14,16692
+9,Never attended college (before year 2013),15,49693
+10,Ivy Plus,1,93
+10,Other elite schools (public and private),2,363
+10,Highly selective public,3,1065
+10,Highly selective private,4,257
+10,Selective public,5,8221
+10,Selective private,6,1666
+10,Nonselective four-year public,7,2359
+10,Nonselective four-year private not-for-profit,8,316
+10,Two-year (public and private not-for-profit),9,15013
+10,Four-year for-profit,10,1367
+10,Two-year for-profit,11,448
+10,Less than two-year schools of any type,12,129
+10,Attending college with insufficient data,13,10893
+10,Late attender (ages 23-28),14,16741
+10,Never attended college (before year 2013),15,48642
+11,Ivy Plus,1,115
+11,Other elite schools (public and private),2,399
+11,Highly selective public,3,1136
+11,Highly selective private,4,310
+11,Selective public,5,8315
+11,Selective private,6,1787
+11,Nonselective four-year public,7,2354
+11,Nonselective four-year private not-for-profit,8,291
+11,Two-year (public and private not-for-profit),9,15209
+11,Four-year for-profit,10,1360
+11,Two-year for-profit,11,470
+11,Less than two-year schools of any type,12,96
+11,Attending college with insufficient data,13,10734
+11,Late attender (ages 23-28),14,16578
+11,Never attended college (before year 2013),15,48420
+12,Ivy Plus,1,91
+12,Other elite schools (public and private),2,388
+12,Highly selective public,3,1150
+12,Highly selective private,4,253
+12,Selective public,5,8637
+12,Selective private,6,1807
+12,Nonselective four-year public,7,2394
+12,Nonselective four-year private not-for-profit,8,290
+12,Two-year (public and private not-for-profit),9,15508
+12,Four-year for-profit,10,1393
+12,Two-year for-profit,11,432
+12,Less than two-year schools of any type,12,77
+12,Attending college with insufficient data,13,10723
+12,Late attender (ages 23-28),14,16617
+12,Never attended college (before year 2013),15,47814
+13,Ivy Plus,1,112
+13,Other elite schools (public and private),2,458
+13,Highly selective public,3,1209
+13,Highly selective private,4,291
+13,Selective public,5,8727
+13,Selective private,6,1867
+13,Nonselective four-year public,7,2398
+13,Nonselective four-year private not-for-profit,8,307
+13,Two-year (public and private not-for-profit),9,15593
+13,Four-year for-profit,10,1430
+13,Two-year for-profit,11,441
+13,Less than two-year schools of any type,12,99
+13,Attending college with insufficient data,13,10820
+13,Late attender (ages 23-28),14,16515
+13,Never attended college (before year 2013),15,47306
+14,Ivy Plus,1,94
+14,Other elite schools (public and private),2,392
+14,Highly selective public,3,1194
+14,Highly selective private,4,295
+14,Selective public,5,8994
+14,Selective private,6,1941
+14,Nonselective four-year public,7,2438
+14,Nonselective four-year private not-for-profit,8,313
+14,Two-year (public and private not-for-profit),9,15887
+14,Four-year for-profit,10,1418
+14,Two-year for-profit,11,462
+14,Less than two-year schools of any type,12,84
+14,Attending college with insufficient data,13,10813
+14,Late attender (ages 23-28),14,16636
+14,Never attended college (before year 2013),15,46613
+15,Ivy Plus,1,102
+15,Other elite schools (public and private),2,483
+15,Highly selective public,3,1229
+15,Highly selective private,4,295
+15,Selective public,5,9155
+15,Selective private,6,1970
+15,Nonselective four-year public,7,2446
+15,Nonselective four-year private not-for-profit,8,335
+15,Two-year (public and private not-for-profit),9,15973
+15,Four-year for-profit,10,1406
+15,Two-year for-profit,11,427
+15,Less than two-year schools of any type,12,115
+15,Attending college with insufficient data,13,10926
+15,Late attender (ages 23-28),14,16574
+15,Never attended college (before year 2013),15,46137
+16,Ivy Plus,1,90
+16,Other elite schools (public and private),2,483
+16,Highly selective public,3,1249
+16,Highly selective private,4,307
+16,Selective public,5,9397
+16,Selective private,6,1991
+16,Nonselective four-year public,7,2419
+16,Nonselective four-year private not-for-profit,8,335
+16,Two-year (public and private not-for-profit),9,16138
+16,Four-year for-profit,10,1425
+16,Two-year for-profit,11,463
+16,Less than two-year schools of any type,12,125
+16,Attending college with insufficient data,13,11021
+16,Late attender (ages 23-28),14,16327
+16,Never attended college (before year 2013),15,45804
+17,Ivy Plus,1,113
+17,Other elite schools (public and private),2,474
+17,Highly selective public,3,1348
+17,Highly selective private,4,354
+17,Selective public,5,9564
+17,Selective private,6,2090
+17,Nonselective four-year public,7,2404
+17,Nonselective four-year private not-for-profit,8,325
+17,Two-year (public and private not-for-profit),9,16149
+17,Four-year for-profit,10,1454
+17,Two-year for-profit,11,430
+17,Less than two-year schools of any type,12,129
+17,Attending college with insufficient data,13,10805
+17,Late attender (ages 23-28),14,16566
+17,Never attended college (before year 2013),15,45368
+18,Ivy Plus,1,116
+18,Other elite schools (public and private),2,450
+18,Highly selective public,3,1303
+18,Highly selective private,4,341
+18,Selective public,5,9884
+18,Selective private,6,2151
+18,Nonselective four-year public,7,2458
+18,Nonselective four-year private not-for-profit,8,349
+18,Two-year (public and private not-for-profit),9,16795
+18,Four-year for-profit,10,1486
+18,Two-year for-profit,11,537
+18,Less than two-year schools of any type,12,105
+18,Attending college with insufficient data,13,10884
+18,Late attender (ages 23-28),14,16197
+18,Never attended college (before year 2013),15,44518
+19,Ivy Plus,1,114
+19,Other elite schools (public and private),2,474
+19,Highly selective public,3,1399
+19,Highly selective private,4,357
+19,Selective public,5,9973
+19,Selective private,6,2175
+19,Nonselective four-year public,7,2473
+19,Nonselective four-year private not-for-profit,8,323
+19,Two-year (public and private not-for-profit),9,16847
+19,Four-year for-profit,10,1445
+19,Two-year for-profit,11,456
+19,Less than two-year schools of any type,12,122
+19,Attending college with insufficient data,13,10993
+19,Late attender (ages 23-28),14,16365
+19,Never attended college (before year 2013),15,44058
+20,Ivy Plus,1,128
+20,Other elite schools (public and private),2,470
+20,Highly selective public,3,1395
+20,Highly selective private,4,359
+20,Selective public,5,10195
+20,Selective private,6,2237
+20,Nonselective four-year public,7,2484
+20,Nonselective four-year private not-for-profit,8,377
+20,Two-year (public and private not-for-profit),9,16860
+20,Four-year for-profit,10,1429
+20,Two-year for-profit,11,474
+20,Less than two-year schools of any type,12,114
+20,Attending college with insufficient data,13,10990
+20,Late attender (ages 23-28),14,16259
+20,Never attended college (before year 2013),15,43802
+21,Ivy Plus,1,115
+21,Other elite schools (public and private),2,514
+21,Highly selective public,3,1526
+21,Highly selective private,4,416
+21,Selective public,5,10407
+21,Selective private,6,2334
+21,Nonselective four-year public,7,2503
+21,Nonselective four-year private not-for-profit,8,357
+21,Two-year (public and private not-for-profit),9,17137
+21,Four-year for-profit,10,1488
+21,Two-year for-profit,11,475
+21,Less than two-year schools of any type,12,117
+21,Attending college with insufficient data,13,10996
+21,Late attender (ages 23-28),14,16279
+21,Never attended college (before year 2013),15,42910
+22,Ivy Plus,1,116
+22,Other elite schools (public and private),2,504
+22,Highly selective public,3,1449
+22,Highly selective private,4,402
+22,Selective public,5,10707
+22,Selective private,6,2416
+22,Nonselective four-year public,7,2577
+22,Nonselective four-year private not-for-profit,8,396
+22,Two-year (public and private not-for-profit),9,17527
+22,Four-year for-profit,10,1453
+22,Two-year for-profit,11,451
+22,Less than two-year schools of any type,12,129
+22,Attending college with insufficient data,13,10962
+22,Late attender (ages 23-28),14,16207
+22,Never attended college (before year 2013),15,42277
+23,Ivy Plus,1,113
+23,Other elite schools (public and private),2,522
+23,Highly selective public,3,1498
+23,Highly selective private,4,386
+23,Selective public,5,10975
+23,Selective private,6,2414
+23,Nonselective four-year public,7,2555
+23,Nonselective four-year private not-for-profit,8,374
+23,Two-year (public and private not-for-profit),9,17686
+23,Four-year for-profit,10,1431
+23,Two-year for-profit,11,489
+23,Less than two-year schools of any type,12,113
+23,Attending college with insufficient data,13,11203
+23,Late attender (ages 23-28),14,16183
+23,Never attended college (before year 2013),15,41632
+24,Ivy Plus,1,151
+24,Other elite schools (public and private),2,537
+24,Highly selective public,3,1571
+24,Highly selective private,4,395
+24,Selective public,5,11263
+24,Selective private,6,2511
+24,Nonselective four-year public,7,2644
+24,Nonselective four-year private not-for-profit,8,357
+24,Two-year (public and private not-for-profit),9,17855
+24,Four-year for-profit,10,1500
+24,Two-year for-profit,11,508
+24,Less than two-year schools of any type,12,113
+24,Attending college with insufficient data,13,11103
+24,Late attender (ages 23-28),14,15966
+24,Never attended college (before year 2013),15,41098
+25,Ivy Plus,1,144
+25,Other elite schools (public and private),2,579
+25,Highly selective public,3,1621
+25,Highly selective private,4,429
+25,Selective public,5,11566
+25,Selective private,6,2556
+25,Nonselective four-year public,7,2561
+25,Nonselective four-year private not-for-profit,8,396
+25,Two-year (public and private not-for-profit),9,17788
+25,Four-year for-profit,10,1530
+25,Two-year for-profit,11,498
+25,Less than two-year schools of any type,12,99
+25,Attending college with insufficient data,13,11267
+25,Late attender (ages 23-28),14,16063
+25,Never attended college (before year 2013),15,40478
+26,Ivy Plus,1,117
+26,Other elite schools (public and private),2,585
+26,Highly selective public,3,1660
+26,Highly selective private,4,428
+26,Selective public,5,11852
+26,Selective private,6,2694
+26,Nonselective four-year public,7,2648
+26,Nonselective four-year private not-for-profit,8,382
+26,Two-year (public and private not-for-profit),9,18232
+26,Four-year for-profit,10,1409
+26,Two-year for-profit,11,506
+26,Less than two-year schools of any type,12,138
+26,Attending college with insufficient data,13,11127
+26,Late attender (ages 23-28),14,16012
+26,Never attended college (before year 2013),15,39784
+27,Ivy Plus,1,135
+27,Other elite schools (public and private),2,583
+27,Highly selective public,3,1646
+27,Highly selective private,4,458
+27,Selective public,5,11674
+27,Selective private,6,2715
+27,Nonselective four-year public,7,2623
+27,Nonselective four-year private not-for-profit,8,386
+27,Two-year (public and private not-for-profit),9,18363
+27,Four-year for-profit,10,1517
+27,Two-year for-profit,11,483
+27,Less than two-year schools of any type,12,111
+27,Attending college with insufficient data,13,11019
+27,Late attender (ages 23-28),14,16098
+27,Never attended college (before year 2013),15,39762
+28,Ivy Plus,1,150
+28,Other elite schools (public and private),2,599
+28,Highly selective public,3,1731
+28,Highly selective private,4,497
+28,Selective public,5,12040
+28,Selective private,6,2890
+28,Nonselective four-year public,7,2542
+28,Nonselective four-year private not-for-profit,8,403
+28,Two-year (public and private not-for-profit),9,18566
+28,Four-year for-profit,10,1512
+28,Two-year for-profit,11,495
+28,Less than two-year schools of any type,12,128
+28,Attending college with insufficient data,13,11097
+28,Late attender (ages 23-28),14,15898
+28,Never attended college (before year 2013),15,39026
+29,Ivy Plus,1,173
+29,Other elite schools (public and private),2,663
+29,Highly selective public,3,1802
+29,Highly selective private,4,498
+29,Selective public,5,12360
+29,Selective private,6,2850
+29,Nonselective four-year public,7,2552
+29,Nonselective four-year private not-for-profit,8,389
+29,Two-year (public and private not-for-profit),9,18772
+29,Four-year for-profit,10,1496
+29,Two-year for-profit,11,522
+29,Less than two-year schools of any type,12,109
+29,Attending college with insufficient data,13,11233
+29,Late attender (ages 23-28),14,15705
+29,Never attended college (before year 2013),15,38449
+30,Ivy Plus,1,146
+30,Other elite schools (public and private),2,633
+30,Highly selective public,3,1811
+30,Highly selective private,4,516
+30,Selective public,5,12584
+30,Selective private,6,2920
+30,Nonselective four-year public,7,2543
+30,Nonselective four-year private not-for-profit,8,434
+30,Two-year (public and private not-for-profit),9,18829
+30,Four-year for-profit,10,1511
+30,Two-year for-profit,11,541
+30,Less than two-year schools of any type,12,117
+30,Attending college with insufficient data,13,11193
+30,Late attender (ages 23-28),14,15666
+30,Never attended college (before year 2013),15,38130
+31,Ivy Plus,1,164
+31,Other elite schools (public and private),2,625
+31,Highly selective public,3,1918
+31,Highly selective private,4,518
+31,Selective public,5,12851
+31,Selective private,6,3051
+31,Nonselective four-year public,7,2607
+31,Nonselective four-year private not-for-profit,8,396
+31,Two-year (public and private not-for-profit),9,18958
+31,Four-year for-profit,10,1525
+31,Two-year for-profit,11,493
+31,Less than two-year schools of any type,12,112
+31,Attending college with insufficient data,13,11138
+31,Late attender (ages 23-28),14,15719
+31,Never attended college (before year 2013),15,37499
+32,Ivy Plus,1,142
+32,Other elite schools (public and private),2,637
+32,Highly selective public,3,1909
+32,Highly selective private,4,529
+32,Selective public,5,13047
+32,Selective private,6,3108
+32,Nonselective four-year public,7,2612
+32,Nonselective four-year private not-for-profit,8,446
+32,Two-year (public and private not-for-profit),9,19513
+32,Four-year for-profit,10,1450
+32,Two-year for-profit,11,440
+32,Less than two-year schools of any type,12,121
+32,Attending college with insufficient data,13,11125
+32,Late attender (ages 23-28),14,15575
+32,Never attended college (before year 2013),15,36919
+33,Ivy Plus,1,155
+33,Other elite schools (public and private),2,685
+33,Highly selective public,3,2018
+33,Highly selective private,4,560
+33,Selective public,5,13435
+33,Selective private,6,3158
+33,Nonselective four-year public,7,2655
+33,Nonselective four-year private not-for-profit,8,407
+33,Two-year (public and private not-for-profit),9,19487
+33,Four-year for-profit,10,1471
+33,Two-year for-profit,11,532
+33,Less than two-year schools of any type,12,130
+33,Attending college with insufficient data,13,11158
+33,Late attender (ages 23-28),14,15311
+33,Never attended college (before year 2013),15,36412
+34,Ivy Plus,1,181
+34,Other elite schools (public and private),2,692
+34,Highly selective public,3,1975
+34,Highly selective private,4,560
+34,Selective public,5,13671
+34,Selective private,6,3218
+34,Nonselective four-year public,7,2760
+34,Nonselective four-year private not-for-profit,8,467
+34,Two-year (public and private not-for-profit),9,19705
+34,Four-year for-profit,10,1534
+34,Two-year for-profit,11,509
+34,Less than two-year schools of any type,12,117
+34,Attending college with insufficient data,13,11037
+34,Late attender (ages 23-28),14,15226
+34,Never attended college (before year 2013),15,35921
+35,Ivy Plus,1,186
+35,Other elite schools (public and private),2,692
+35,Highly selective public,3,2058
+35,Highly selective private,4,603
+35,Selective public,5,13862
+35,Selective private,6,3305
+35,Nonselective four-year public,7,2642
+35,Nonselective four-year private not-for-profit,8,407
+35,Two-year (public and private not-for-profit),9,19883
+35,Four-year for-profit,10,1549
+35,Two-year for-profit,11,463
+35,Less than two-year schools of any type,12,128
+35,Attending college with insufficient data,13,10906
+35,Late attender (ages 23-28),14,15367
+35,Never attended college (before year 2013),15,35523
+36,Ivy Plus,1,158
+36,Other elite schools (public and private),2,755
+36,Highly selective public,3,2042
+36,Highly selective private,4,632
+36,Selective public,5,13961
+36,Selective private,6,3494
+36,Nonselective four-year public,7,2741
+36,Nonselective four-year private not-for-profit,8,423
+36,Two-year (public and private not-for-profit),9,20203
+36,Four-year for-profit,10,1481
+36,Two-year for-profit,11,480
+36,Less than two-year schools of any type,12,119
+36,Attending college with insufficient data,13,11030
+36,Late attender (ages 23-28),14,15143
+36,Never attended college (before year 2013),15,34911
+37,Ivy Plus,1,178
+37,Other elite schools (public and private),2,757
+37,Highly selective public,3,2163
+37,Highly selective private,4,628
+37,Selective public,5,14460
+37,Selective private,6,3538
+37,Nonselective four-year public,7,2766
+37,Nonselective four-year private not-for-profit,8,457
+37,Two-year (public and private not-for-profit),9,20448
+37,Four-year for-profit,10,1510
+37,Two-year for-profit,11,492
+37,Less than two-year schools of any type,12,113
+37,Attending college with insufficient data,13,10998
+37,Late attender (ages 23-28),14,15211
+37,Never attended college (before year 2013),15,33855
+38,Ivy Plus,1,187
+38,Other elite schools (public and private),2,736
+38,Highly selective public,3,2189
+38,Highly selective private,4,632
+38,Selective public,5,14754
+38,Selective private,6,3549
+38,Nonselective four-year public,7,2737
+38,Nonselective four-year private not-for-profit,8,483
+38,Two-year (public and private not-for-profit),9,20530
+38,Four-year for-profit,10,1515
+38,Two-year for-profit,11,490
+38,Less than two-year schools of any type,12,111
+38,Attending college with insufficient data,13,10818
+38,Late attender (ages 23-28),14,15035
+38,Never attended college (before year 2013),15,33808
+39,Ivy Plus,1,186
+39,Other elite schools (public and private),2,765
+39,Highly selective public,3,2266
+39,Highly selective private,4,693
+39,Selective public,5,15011
+39,Selective private,6,3723
+39,Nonselective four-year public,7,2761
+39,Nonselective four-year private not-for-profit,8,497
+39,Two-year (public and private not-for-profit),9,20519
+39,Four-year for-profit,10,1492
+39,Two-year for-profit,11,502
+39,Less than two-year schools of any type,12,114
+39,Attending college with insufficient data,13,10886
+39,Late attender (ages 23-28),14,14742
+39,Never attended college (before year 2013),15,33416
+40,Ivy Plus,1,191
+40,Other elite schools (public and private),2,754
+40,Highly selective public,3,2242
+40,Highly selective private,4,677
+40,Selective public,5,15392
+40,Selective private,6,3662
+40,Nonselective four-year public,7,2769
+40,Nonselective four-year private not-for-profit,8,517
+40,Two-year (public and private not-for-profit),9,21067
+40,Four-year for-profit,10,1428
+40,Two-year for-profit,11,501
+40,Less than two-year schools of any type,12,96
+40,Attending college with insufficient data,13,10832
+40,Late attender (ages 23-28),14,14724
+40,Never attended college (before year 2013),15,32722
+41,Ivy Plus,1,197
+41,Other elite schools (public and private),2,844
+41,Highly selective public,3,2402
+41,Highly selective private,4,727
+41,Selective public,5,15542
+41,Selective private,6,3790
+41,Nonselective four-year public,7,2730
+41,Nonselective four-year private not-for-profit,8,498
+41,Two-year (public and private not-for-profit),9,20925
+41,Four-year for-profit,10,1488
+41,Two-year for-profit,11,538
+41,Less than two-year schools of any type,12,106
+41,Attending college with insufficient data,13,10519
+41,Late attender (ages 23-28),14,14652
+41,Never attended college (before year 2013),15,32615
+42,Ivy Plus,1,206
+42,Other elite schools (public and private),2,796
+42,Highly selective public,3,2271
+42,Highly selective private,4,692
+42,Selective public,5,15796
+42,Selective private,6,3746
+42,Nonselective four-year public,7,2693
+42,Nonselective four-year private not-for-profit,8,502
+42,Two-year (public and private not-for-profit),9,21131
+42,Four-year for-profit,10,1438
+42,Two-year for-profit,11,520
+42,Less than two-year schools of any type,12,112
+42,Attending college with insufficient data,13,10703
+42,Late attender (ages 23-28),14,14845
+42,Never attended college (before year 2013),15,32123
+43,Ivy Plus,1,216
+43,Other elite schools (public and private),2,886
+43,Highly selective public,3,2490
+43,Highly selective private,4,674
+43,Selective public,5,15941
+43,Selective private,6,3934
+43,Nonselective four-year public,7,2785
+43,Nonselective four-year private not-for-profit,8,516
+43,Two-year (public and private not-for-profit),9,21194
+43,Four-year for-profit,10,1476
+43,Two-year for-profit,11,550
+43,Less than two-year schools of any type,12,125
+43,Attending college with insufficient data,13,10615
+43,Late attender (ages 23-28),14,14546
+43,Never attended college (before year 2013),15,31626
+44,Ivy Plus,1,225
+44,Other elite schools (public and private),2,851
+44,Highly selective public,3,2430
+44,Highly selective private,4,731
+44,Selective public,5,16436
+44,Selective private,6,4104
+44,Nonselective four-year public,7,2757
+44,Nonselective four-year private not-for-profit,8,500
+44,Two-year (public and private not-for-profit),9,21499
+44,Four-year for-profit,10,1418
+44,Two-year for-profit,11,511
+44,Less than two-year schools of any type,12,91
+44,Attending college with insufficient data,13,10476
+44,Late attender (ages 23-28),14,14281
+44,Never attended college (before year 2013),15,31263
+45,Ivy Plus,1,235
+45,Other elite schools (public and private),2,917
+45,Highly selective public,3,2512
+45,Highly selective private,4,775
+45,Selective public,5,16544
+45,Selective private,6,4213
+45,Nonselective four-year public,7,2874
+45,Nonselective four-year private not-for-profit,8,505
+45,Two-year (public and private not-for-profit),9,21701
+45,Four-year for-profit,10,1427
+45,Two-year for-profit,11,511
+45,Less than two-year schools of any type,12,102
+45,Attending college with insufficient data,13,10397
+45,Late attender (ages 23-28),14,14203
+45,Never attended college (before year 2013),15,30658
+46,Ivy Plus,1,219
+46,Other elite schools (public and private),2,893
+46,Highly selective public,3,2535
+46,Highly selective private,4,764
+46,Selective public,5,17118
+46,Selective private,6,4117
+46,Nonselective four-year public,7,2804
+46,Nonselective four-year private not-for-profit,8,540
+46,Two-year (public and private not-for-profit),9,21934
+46,Four-year for-profit,10,1387
+46,Two-year for-profit,11,498
+46,Less than two-year schools of any type,12,105
+46,Attending college with insufficient data,13,10266
+46,Late attender (ages 23-28),14,14129
+46,Never attended college (before year 2013),15,30264
+47,Ivy Plus,1,195
+47,Other elite schools (public and private),2,904
+47,Highly selective public,3,2655
+47,Highly selective private,4,783
+47,Selective public,5,17067
+47,Selective private,6,4234
+47,Nonselective four-year public,7,2788
+47,Nonselective four-year private not-for-profit,8,501
+47,Two-year (public and private not-for-profit),9,21985
+47,Four-year for-profit,10,1364
+47,Two-year for-profit,11,506
+47,Less than two-year schools of any type,12,103
+47,Attending college with insufficient data,13,10286
+47,Late attender (ages 23-28),14,14221
+47,Never attended college (before year 2013),15,29982
+48,Ivy Plus,1,215
+48,Other elite schools (public and private),2,900
+48,Highly selective public,3,2641
+48,Highly selective private,4,788
+48,Selective public,5,17460
+48,Selective private,6,4303
+48,Nonselective four-year public,7,2867
+48,Nonselective four-year private not-for-profit,8,503
+48,Two-year (public and private not-for-profit),9,22361
+48,Four-year for-profit,10,1409
+48,Two-year for-profit,11,459
+48,Less than two-year schools of any type,12,121
+48,Attending college with insufficient data,13,10045
+48,Late attender (ages 23-28),14,14202
+48,Never attended college (before year 2013),15,29299
+49,Ivy Plus,1,208
+49,Other elite schools (public and private),2,921
+49,Highly selective public,3,2733
+49,Highly selective private,4,829
+49,Selective public,5,18060
+49,Selective private,6,4391
+49,Nonselective four-year public,7,2853
+49,Nonselective four-year private not-for-profit,8,576
+49,Two-year (public and private not-for-profit),9,22078
+49,Four-year for-profit,10,1348
+49,Two-year for-profit,11,481
+49,Less than two-year schools of any type,12,101
+49,Attending college with insufficient data,13,10179
+49,Late attender (ages 23-28),14,13917
+49,Never attended college (before year 2013),15,28898
+50,Ivy Plus,1,251
+50,Other elite schools (public and private),2,968
+50,Highly selective public,3,2895
+50,Highly selective private,4,838
+50,Selective public,5,18110
+50,Selective private,6,4453
+50,Nonselective four-year public,7,2827
+50,Nonselective four-year private not-for-profit,8,561
+50,Two-year (public and private not-for-profit),9,22522
+50,Four-year for-profit,10,1329
+50,Two-year for-profit,11,474
+50,Less than two-year schools of any type,12,98
+50,Attending college with insufficient data,13,9853
+50,Late attender (ages 23-28),14,14023
+50,Never attended college (before year 2013),15,28373
+51,Ivy Plus,1,228
+51,Other elite schools (public and private),2,888
+51,Highly selective public,3,2862
+51,Highly selective private,4,854
+51,Selective public,5,18534
+51,Selective private,6,4569
+51,Nonselective four-year public,7,2833
+51,Nonselective four-year private not-for-profit,8,580
+51,Two-year (public and private not-for-profit),9,22739
+51,Four-year for-profit,10,1389
+51,Two-year for-profit,11,484
+51,Less than two-year schools of any type,12,114
+51,Attending college with insufficient data,13,9609
+51,Late attender (ages 23-28),14,13809
+51,Never attended college (before year 2013),15,28081
+52,Ivy Plus,1,225
+52,Other elite schools (public and private),2,984
+52,Highly selective public,3,3023
+52,Highly selective private,4,833
+52,Selective public,5,18600
+52,Selective private,6,4651
+52,Nonselective four-year public,7,2873
+52,Nonselective four-year private not-for-profit,8,576
+52,Two-year (public and private not-for-profit),9,22991
+52,Four-year for-profit,10,1354
+52,Two-year for-profit,11,511
+52,Less than two-year schools of any type,12,114
+52,Attending college with insufficient data,13,9689
+52,Late attender (ages 23-28),14,13537
+52,Never attended college (before year 2013),15,27613
+53,Ivy Plus,1,295
+53,Other elite schools (public and private),2,1018
+53,Highly selective public,3,3132
+53,Highly selective private,4,831
+53,Selective public,5,18992
+53,Selective private,6,4725
+53,Nonselective four-year public,7,2814
+53,Nonselective four-year private not-for-profit,8,574
+53,Two-year (public and private not-for-profit),9,23028
+53,Four-year for-profit,10,1333
+53,Two-year for-profit,11,478
+53,Less than two-year schools of any type,12,108
+53,Attending college with insufficient data,13,9627
+53,Late attender (ages 23-28),14,13500
+53,Never attended college (before year 2013),15,27118
+54,Ivy Plus,1,245
+54,Other elite schools (public and private),2,1061
+54,Highly selective public,3,3031
+54,Highly selective private,4,890
+54,Selective public,5,19488
+54,Selective private,6,4790
+54,Nonselective four-year public,7,2960
+54,Nonselective four-year private not-for-profit,8,572
+54,Two-year (public and private not-for-profit),9,23066
+54,Four-year for-profit,10,1350
+54,Two-year for-profit,11,510
+54,Less than two-year schools of any type,12,118
+54,Attending college with insufficient data,13,9654
+54,Late attender (ages 23-28),14,13430
+54,Never attended college (before year 2013),15,26409
+55,Ivy Plus,1,223
+55,Other elite schools (public and private),2,1017
+55,Highly selective public,3,3180
+55,Highly selective private,4,866
+55,Selective public,5,19697
+55,Selective private,6,4918
+55,Nonselective four-year public,7,2976
+55,Nonselective four-year private not-for-profit,8,577
+55,Two-year (public and private not-for-profit),9,23191
+55,Four-year for-profit,10,1373
+55,Two-year for-profit,11,509
+55,Less than two-year schools of any type,12,108
+55,Attending college with insufficient data,13,9501
+55,Late attender (ages 23-28),14,13239
+55,Never attended college (before year 2013),15,26198
+56,Ivy Plus,1,239
+56,Other elite schools (public and private),2,1013
+56,Highly selective public,3,3269
+56,Highly selective private,4,942
+56,Selective public,5,20150
+56,Selective private,6,4912
+56,Nonselective four-year public,7,2954
+56,Nonselective four-year private not-for-profit,8,602
+56,Two-year (public and private not-for-profit),9,23412
+56,Four-year for-profit,10,1379
+56,Two-year for-profit,11,473
+56,Less than two-year schools of any type,12,111
+56,Attending college with insufficient data,13,9316
+56,Late attender (ages 23-28),14,12976
+56,Never attended college (before year 2013),15,25826
+57,Ivy Plus,1,257
+57,Other elite schools (public and private),2,1023
+57,Highly selective public,3,3349
+57,Highly selective private,4,960
+57,Selective public,5,20356
+57,Selective private,6,4980
+57,Nonselective four-year public,7,2911
+57,Nonselective four-year private not-for-profit,8,607
+57,Two-year (public and private not-for-profit),9,23562
+57,Four-year for-profit,10,1386
+57,Two-year for-profit,11,478
+57,Less than two-year schools of any type,12,122
+57,Attending college with insufficient data,13,9241
+57,Late attender (ages 23-28),14,12890
+57,Never attended college (before year 2013),15,25452
+58,Ivy Plus,1,287
+58,Other elite schools (public and private),2,1048
+58,Highly selective public,3,3354
+58,Highly selective private,4,938
+58,Selective public,5,20505
+58,Selective private,6,5031
+58,Nonselective four-year public,7,3040
+58,Nonselective four-year private not-for-profit,8,616
+58,Two-year (public and private not-for-profit),9,23762
+58,Four-year for-profit,10,1351
+58,Two-year for-profit,11,463
+58,Less than two-year schools of any type,12,90
+58,Attending college with insufficient data,13,9447
+58,Late attender (ages 23-28),14,12857
+58,Never attended college (before year 2013),15,24784
+59,Ivy Plus,1,256
+59,Other elite schools (public and private),2,1117
+59,Highly selective public,3,3465
+59,Highly selective private,4,999
+59,Selective public,5,21079
+59,Selective private,6,5162
+59,Nonselective four-year public,7,2930
+59,Nonselective four-year private not-for-profit,8,636
+59,Two-year (public and private not-for-profit),9,24058
+59,Four-year for-profit,10,1326
+59,Two-year for-profit,11,450
+59,Less than two-year schools of any type,12,104
+59,Attending college with insufficient data,13,9135
+59,Late attender (ages 23-28),14,12691
+59,Never attended college (before year 2013),15,24166
+60,Ivy Plus,1,284
+60,Other elite schools (public and private),2,1122
+60,Highly selective public,3,3607
+60,Highly selective private,4,1016
+60,Selective public,5,21479
+60,Selective private,6,5281
+60,Nonselective four-year public,7,2940
+60,Nonselective four-year private not-for-profit,8,615
+60,Two-year (public and private not-for-profit),9,23918
+60,Four-year for-profit,10,1312
+60,Two-year for-profit,11,449
+60,Less than two-year schools of any type,12,108
+60,Attending college with insufficient data,13,9085
+60,Late attender (ages 23-28),14,12686
+60,Never attended college (before year 2013),15,23671
+61,Ivy Plus,1,287
+61,Other elite schools (public and private),2,1179
+61,Highly selective public,3,3551
+61,Highly selective private,4,1089
+61,Selective public,5,21936
+61,Selective private,6,5373
+61,Nonselective four-year public,7,2966
+61,Nonselective four-year private not-for-profit,8,678
+61,Two-year (public and private not-for-profit),9,24015
+61,Four-year for-profit,10,1265
+61,Two-year for-profit,11,476
+61,Less than two-year schools of any type,12,107
+61,Attending college with insufficient data,13,9033
+61,Late attender (ages 23-28),14,12270
+61,Never attended college (before year 2013),15,23349
+62,Ivy Plus,1,296
+62,Other elite schools (public and private),2,1171
+62,Highly selective public,3,3731
+62,Highly selective private,4,1082
+62,Selective public,5,22218
+62,Selective private,6,5342
+62,Nonselective four-year public,7,2980
+62,Nonselective four-year private not-for-profit,8,620
+62,Two-year (public and private not-for-profit),9,24078
+62,Four-year for-profit,10,1256
+62,Two-year for-profit,11,470
+62,Less than two-year schools of any type,12,117
+62,Attending college with insufficient data,13,9111
+62,Late attender (ages 23-28),14,12122
+62,Never attended college (before year 2013),15,22980
+63,Ivy Plus,1,289
+63,Other elite schools (public and private),2,1221
+63,Highly selective public,3,3676
+63,Highly selective private,4,1054
+63,Selective public,5,22662
+63,Selective private,6,5562
+63,Nonselective four-year public,7,2901
+63,Nonselective four-year private not-for-profit,8,637
+63,Two-year (public and private not-for-profit),9,24535
+63,Four-year for-profit,10,1268
+63,Two-year for-profit,11,466
+63,Less than two-year schools of any type,12,110
+63,Attending college with insufficient data,13,8870
+63,Late attender (ages 23-28),14,11923
+63,Never attended college (before year 2013),15,22399
+64,Ivy Plus,1,298
+64,Other elite schools (public and private),2,1214
+64,Highly selective public,3,3872
+64,Highly selective private,4,1108
+64,Selective public,5,23010
+64,Selective private,6,5587
+64,Nonselective four-year public,7,3037
+64,Nonselective four-year private not-for-profit,8,646
+64,Two-year (public and private not-for-profit),9,24508
+64,Four-year for-profit,10,1253
+64,Two-year for-profit,11,494
+64,Less than two-year schools of any type,12,112
+64,Attending college with insufficient data,13,8953
+64,Late attender (ages 23-28),14,11647
+64,Never attended college (before year 2013),15,21835
+65,Ivy Plus,1,307
+65,Other elite schools (public and private),2,1227
+65,Highly selective public,3,4041
+65,Highly selective private,4,1124
+65,Selective public,5,23394
+65,Selective private,6,5709
+65,Nonselective four-year public,7,2990
+65,Nonselective four-year private not-for-profit,8,659
+65,Two-year (public and private not-for-profit),9,24552
+65,Four-year for-profit,10,1275
+65,Two-year for-profit,11,438
+65,Less than two-year schools of any type,12,97
+65,Attending college with insufficient data,13,8810
+65,Late attender (ages 23-28),14,11672
+65,Never attended college (before year 2013),15,21278
+66,Ivy Plus,1,297
+66,Other elite schools (public and private),2,1275
+66,Highly selective public,3,4015
+66,Highly selective private,4,1156
+66,Selective public,5,23580
+66,Selective private,6,5656
+66,Nonselective four-year public,7,2980
+66,Nonselective four-year private not-for-profit,8,657
+66,Two-year (public and private not-for-profit),9,25118
+66,Four-year for-profit,10,1224
+66,Two-year for-profit,11,425
+66,Less than two-year schools of any type,12,98
+66,Attending college with insufficient data,13,8802
+66,Late attender (ages 23-28),14,11345
+66,Never attended college (before year 2013),15,20946
+67,Ivy Plus,1,355
+67,Other elite schools (public and private),2,1289
+67,Highly selective public,3,4228
+67,Highly selective private,4,1160
+67,Selective public,5,23868
+67,Selective private,6,5923
+67,Nonselective four-year public,7,2966
+67,Nonselective four-year private not-for-profit,8,653
+67,Two-year (public and private not-for-profit),9,24895
+67,Four-year for-profit,10,1240
+67,Two-year for-profit,11,407
+67,Less than two-year schools of any type,12,116
+67,Attending college with insufficient data,13,8862
+67,Late attender (ages 23-28),14,11210
+67,Never attended college (before year 2013),15,20401
+68,Ivy Plus,1,316
+68,Other elite schools (public and private),2,1309
+68,Highly selective public,3,4226
+68,Highly selective private,4,1189
+68,Selective public,5,24280
+68,Selective private,6,5957
+68,Nonselective four-year public,7,3005
+68,Nonselective four-year private not-for-profit,8,685
+68,Two-year (public and private not-for-profit),9,25254
+68,Four-year for-profit,10,1257
+68,Two-year for-profit,11,432
+68,Less than two-year schools of any type,12,112
+68,Attending college with insufficient data,13,8721
+68,Late attender (ages 23-28),14,11022
+68,Never attended college (before year 2013),15,19809
+69,Ivy Plus,1,335
+69,Other elite schools (public and private),2,1442
+69,Highly selective public,3,4423
+69,Highly selective private,4,1295
+69,Selective public,5,25110
+69,Selective private,6,6109
+69,Nonselective four-year public,7,2917
+69,Nonselective four-year private not-for-profit,8,678
+69,Two-year (public and private not-for-profit),9,25103
+69,Four-year for-profit,10,1223
+69,Two-year for-profit,11,436
+69,Less than two-year schools of any type,12,105
+69,Attending college with insufficient data,13,8449
+69,Late attender (ages 23-28),14,10582
+69,Never attended college (before year 2013),15,19367
+70,Ivy Plus,1,312
+70,Other elite schools (public and private),2,1421
+70,Highly selective public,3,4668
+70,Highly selective private,4,1330
+70,Selective public,5,25515
+70,Selective private,6,6144
+70,Nonselective four-year public,7,2909
+70,Nonselective four-year private not-for-profit,8,704
+70,Two-year (public and private not-for-profit),9,25302
+70,Four-year for-profit,10,1290
+70,Two-year for-profit,11,449
+70,Less than two-year schools of any type,12,118
+70,Attending college with insufficient data,13,8338
+70,Late attender (ages 23-28),14,10418
+70,Never attended college (before year 2013),15,18655
+71,Ivy Plus,1,336
+71,Other elite schools (public and private),2,1443
+71,Highly selective public,3,4681
+71,Highly selective private,4,1421
+71,Selective public,5,25845
+71,Selective private,6,6350
+71,Nonselective four-year public,7,2902
+71,Nonselective four-year private not-for-profit,8,678
+71,Two-year (public and private not-for-profit),9,25342
+71,Four-year for-profit,10,1181
+71,Two-year for-profit,11,450
+71,Less than two-year schools of any type,12,100
+71,Attending college with insufficient data,13,8453
+71,Late attender (ages 23-28),14,10378
+71,Never attended college (before year 2013),15,18014
+72,Ivy Plus,1,357
+72,Other elite schools (public and private),2,1533
+72,Highly selective public,3,4841
+72,Highly selective private,4,1363
+72,Selective public,5,26322
+72,Selective private,6,6498
+72,Nonselective four-year public,7,2932
+72,Nonselective four-year private not-for-profit,8,708
+72,Two-year (public and private not-for-profit),9,25332
+72,Four-year for-profit,10,1194
+72,Two-year for-profit,11,412
+72,Less than two-year schools of any type,12,101
+72,Attending college with insufficient data,13,8418
+72,Late attender (ages 23-28),14,10168
+72,Never attended college (before year 2013),15,17394
+73,Ivy Plus,1,388
+73,Other elite schools (public and private),2,1567
+73,Highly selective public,3,5022
+73,Highly selective private,4,1444
+73,Selective public,5,26901
+73,Selective private,6,6519
+73,Nonselective four-year public,7,2970
+73,Nonselective four-year private not-for-profit,8,711
+73,Two-year (public and private not-for-profit),9,25129
+73,Four-year for-profit,10,1116
+73,Two-year for-profit,11,375
+73,Less than two-year schools of any type,12,109
+73,Attending college with insufficient data,13,8381
+73,Late attender (ages 23-28),14,9870
+73,Never attended college (before year 2013),15,17072
+74,Ivy Plus,1,398
+74,Other elite schools (public and private),2,1591
+74,Highly selective public,3,5021
+74,Highly selective private,4,1503
+74,Selective public,5,27169
+74,Selective private,6,6712
+74,Nonselective four-year public,7,2902
+74,Nonselective four-year private not-for-profit,8,724
+74,Two-year (public and private not-for-profit),9,25470
+74,Four-year for-profit,10,1204
+74,Two-year for-profit,11,406
+74,Less than two-year schools of any type,12,107
+74,Attending college with insufficient data,13,8239
+74,Late attender (ages 23-28),14,9802
+74,Never attended college (before year 2013),15,16325
+75,Ivy Plus,1,362
+75,Other elite schools (public and private),2,1627
+75,Highly selective public,3,5341
+75,Highly selective private,4,1489
+75,Selective public,5,27617
+75,Selective private,6,6788
+75,Nonselective four-year public,7,2835
+75,Nonselective four-year private not-for-profit,8,750
+75,Two-year (public and private not-for-profit),9,25526
+75,Four-year for-profit,10,1157
+75,Two-year for-profit,11,423
+75,Less than two-year schools of any type,12,77
+75,Attending college with insufficient data,13,8204
+75,Late attender (ages 23-28),14,9394
+75,Never attended college (before year 2013),15,15984
+76,Ivy Plus,1,420
+76,Other elite schools (public and private),2,1740
+76,Highly selective public,3,5557
+76,Highly selective private,4,1550
+76,Selective public,5,28253
+76,Selective private,6,6964
+76,Nonselective four-year public,7,2903
+76,Nonselective four-year private not-for-profit,8,774
+76,Two-year (public and private not-for-profit),9,25225
+76,Four-year for-profit,10,1163
+76,Two-year for-profit,11,394
+76,Less than two-year schools of any type,12,105
+76,Attending college with insufficient data,13,8091
+76,Late attender (ages 23-28),14,9076
+76,Never attended college (before year 2013),15,15359
+77,Ivy Plus,1,478
+77,Other elite schools (public and private),2,1796
+77,Highly selective public,3,5671
+77,Highly selective private,4,1579
+77,Selective public,5,28891
+77,Selective private,6,6802
+77,Nonselective four-year public,7,2892
+77,Nonselective four-year private not-for-profit,8,689
+77,Two-year (public and private not-for-profit),9,25167
+77,Four-year for-profit,10,1132
+77,Two-year for-profit,11,395
+77,Less than two-year schools of any type,12,105
+77,Attending college with insufficient data,13,8287
+77,Late attender (ages 23-28),14,8809
+77,Never attended college (before year 2013),15,14880
+78,Ivy Plus,1,435
+78,Other elite schools (public and private),2,1911
+78,Highly selective public,3,5909
+78,Highly selective private,4,1670
+78,Selective public,5,29339
+78,Selective private,6,7189
+78,Nonselective four-year public,7,2923
+78,Nonselective four-year private not-for-profit,8,737
+78,Two-year (public and private not-for-profit),9,25204
+78,Four-year for-profit,10,1113
+78,Two-year for-profit,11,391
+78,Less than two-year schools of any type,12,114
+78,Attending college with insufficient data,13,8096
+78,Late attender (ages 23-28),14,8423
+78,Never attended college (before year 2013),15,14120
+79,Ivy Plus,1,510
+79,Other elite schools (public and private),2,2014
+79,Highly selective public,3,6010
+79,Highly selective private,4,1758
+79,Selective public,5,29875
+79,Selective private,6,7377
+79,Nonselective four-year public,7,2803
+79,Nonselective four-year private not-for-profit,8,764
+79,Two-year (public and private not-for-profit),9,25094
+79,Four-year for-profit,10,1144
+79,Two-year for-profit,11,388
+79,Less than two-year schools of any type,12,107
+79,Attending college with insufficient data,13,8043
+79,Late attender (ages 23-28),14,8336
+79,Never attended college (before year 2013),15,13350
+80,Ivy Plus,1,523
+80,Other elite schools (public and private),2,2059
+80,Highly selective public,3,6305
+80,Highly selective private,4,1889
+80,Selective public,5,30181
+80,Selective private,6,7336
+80,Nonselective four-year public,7,2796
+80,Nonselective four-year private not-for-profit,8,777
+80,Two-year (public and private not-for-profit),9,24851
+80,Four-year for-profit,10,1098
+80,Two-year for-profit,11,385
+80,Less than two-year schools of any type,12,78
+80,Attending college with insufficient data,13,8246
+80,Late attender (ages 23-28),14,8013
+80,Never attended college (before year 2013),15,13037
+81,Ivy Plus,1,481
+81,Other elite schools (public and private),2,2219
+81,Highly selective public,3,6514
+81,Highly selective private,4,1909
+81,Selective public,5,30772
+81,Selective private,6,7539
+81,Nonselective four-year public,7,2863
+81,Nonselective four-year private not-for-profit,8,734
+81,Two-year (public and private not-for-profit),9,24908
+81,Four-year for-profit,10,1071
+81,Two-year for-profit,11,351
+81,Less than two-year schools of any type,12,93
+81,Attending college with insufficient data,13,7857
+81,Late attender (ages 23-28),14,7739
+81,Never attended college (before year 2013),15,12524
+82,Ivy Plus,1,567
+82,Other elite schools (public and private),2,2347
+82,Highly selective public,3,6851
+82,Highly selective private,4,1987
+82,Selective public,5,31400
+82,Selective private,6,7552
+82,Nonselective four-year public,7,2667
+82,Nonselective four-year private not-for-profit,8,710
+82,Two-year (public and private not-for-profit),9,24727
+82,Four-year for-profit,10,1089
+82,Two-year for-profit,11,361
+82,Less than two-year schools of any type,12,87
+82,Attending college with insufficient data,13,7712
+82,Late attender (ages 23-28),14,7518
+82,Never attended college (before year 2013),15,11998
+83,Ivy Plus,1,604
+83,Other elite schools (public and private),2,2550
+83,Highly selective public,3,7042
+83,Highly selective private,4,2024
+83,Selective public,5,31799
+83,Selective private,6,7861
+83,Nonselective four-year public,7,2637
+83,Nonselective four-year private not-for-profit,8,731
+83,Two-year (public and private not-for-profit),9,24397
+83,Four-year for-profit,10,1058
+83,Two-year for-profit,11,365
+83,Less than two-year schools of any type,12,90
+83,Attending college with insufficient data,13,7819
+83,Late attender (ages 23-28),14,7181
+83,Never attended college (before year 2013),15,11416
+84,Ivy Plus,1,626
+84,Other elite schools (public and private),2,2538
+84,Highly selective public,3,7310
+84,Highly selective private,4,2180
+84,Selective public,5,32255
+84,Selective private,6,8068
+84,Nonselective four-year public,7,2701
+84,Nonselective four-year private not-for-profit,8,747
+84,Two-year (public and private not-for-profit),9,24361
+84,Four-year for-profit,10,1058
+84,Two-year for-profit,11,323
+84,Less than two-year schools of any type,12,82
+84,Attending college with insufficient data,13,7562
+84,Late attender (ages 23-28),14,7034
+84,Never attended college (before year 2013),15,10728
+85,Ivy Plus,1,678
+85,Other elite schools (public and private),2,2733
+85,Highly selective public,3,7677
+85,Highly selective private,4,2296
+85,Selective public,5,32807
+85,Selective private,6,8023
+85,Nonselective four-year public,7,2645
+85,Nonselective four-year private not-for-profit,8,731
+85,Two-year (public and private not-for-profit),9,23885
+85,Four-year for-profit,10,1032
+85,Two-year for-profit,11,326
+85,Less than two-year schools of any type,12,85
+85,Attending college with insufficient data,13,7673
+85,Late attender (ages 23-28),14,6632
+85,Never attended college (before year 2013),15,10351
+86,Ivy Plus,1,768
+86,Other elite schools (public and private),2,2942
+86,Highly selective public,3,8170
+86,Highly selective private,4,2386
+86,Selective public,5,33328
+86,Selective private,6,8241
+86,Nonselective four-year public,7,2492
+86,Nonselective four-year private not-for-profit,8,784
+86,Two-year (public and private not-for-profit),9,23399
+86,Four-year for-profit,10,1020
+86,Two-year for-profit,11,385
+86,Less than two-year schools of any type,12,95
+86,Attending college with insufficient data,13,7596
+86,Late attender (ages 23-28),14,6165
+86,Never attended college (before year 2013),15,9802
+87,Ivy Plus,1,769
+87,Other elite schools (public and private),2,3238
+87,Highly selective public,3,8383
+87,Highly selective private,4,2512
+87,Selective public,5,33763
+87,Selective private,6,8533
+87,Nonselective four-year public,7,2474
+87,Nonselective four-year private not-for-profit,8,781
+87,Two-year (public and private not-for-profit),9,23424
+87,Four-year for-profit,10,966
+87,Two-year for-profit,11,293
+87,Less than two-year schools of any type,12,74
+87,Attending college with insufficient data,13,7200
+87,Late attender (ages 23-28),14,6076
+87,Never attended college (before year 2013),15,9088
+88,Ivy Plus,1,890
+88,Other elite schools (public and private),2,3530
+88,Highly selective public,3,8747
+88,Highly selective private,4,2650
+88,Selective public,5,34550
+88,Selective private,6,8485
+88,Nonselective four-year public,7,2419
+88,Nonselective four-year private not-for-profit,8,815
+88,Two-year (public and private not-for-profit),9,22649
+88,Four-year for-profit,10,1008
+88,Two-year for-profit,11,306
+88,Less than two-year schools of any type,12,69
+88,Attending college with insufficient data,13,7060
+88,Late attender (ages 23-28),14,5707
+88,Never attended college (before year 2013),15,8689
+89,Ivy Plus,1,949
+89,Other elite schools (public and private),2,3866
+89,Highly selective public,3,9329
+89,Highly selective private,4,2866
+89,Selective public,5,34571
+89,Selective private,6,8796
+89,Nonselective four-year public,7,2372
+89,Nonselective four-year private not-for-profit,8,823
+89,Two-year (public and private not-for-profit),9,22383
+89,Four-year for-profit,10,869
+89,Two-year for-profit,11,279
+89,Less than two-year schools of any type,12,68
+89,Attending college with insufficient data,13,7182
+89,Late attender (ages 23-28),14,5309
+89,Never attended college (before year 2013),15,7911
+90,Ivy Plus,1,1036
+90,Other elite schools (public and private),2,4174
+90,Highly selective public,3,9825
+90,Highly selective private,4,3075
+90,Selective public,5,34977
+90,Selective private,6,8936
+90,Nonselective four-year public,7,2334
+90,Nonselective four-year private not-for-profit,8,812
+90,Two-year (public and private not-for-profit),9,21763
+90,Four-year for-profit,10,932
+90,Two-year for-profit,11,247
+90,Less than two-year schools of any type,12,74
+90,Attending college with insufficient data,13,7109
+90,Late attender (ages 23-28),14,5013
+90,Never attended college (before year 2013),15,7267
+91,Ivy Plus,1,1215
+91,Other elite schools (public and private),2,4571
+91,Highly selective public,3,10292
+91,Highly selective private,4,3310
+91,Selective public,5,35567
+91,Selective private,6,9286
+91,Nonselective four-year public,7,2182
+91,Nonselective four-year private not-for-profit,8,805
+91,Two-year (public and private not-for-profit),9,20741
+91,Four-year for-profit,10,869
+91,Two-year for-profit,11,266
+91,Less than two-year schools of any type,12,80
+91,Attending college with insufficient data,13,6876
+91,Late attender (ages 23-28),14,4682
+91,Never attended college (before year 2013),15,6831
+92,Ivy Plus,1,1479
+92,Other elite schools (public and private),2,5204
+92,Highly selective public,3,10916
+92,Highly selective private,4,3720
+92,Selective public,5,35634
+92,Selective private,6,9354
+92,Nonselective four-year public,7,2147
+92,Nonselective four-year private not-for-profit,8,804
+92,Two-year (public and private not-for-profit),9,19716
+92,Four-year for-profit,10,873
+92,Two-year for-profit,11,210
+92,Less than two-year schools of any type,12,66
+92,Attending college with insufficient data,13,6579
+92,Late attender (ages 23-28),14,4386
+92,Never attended college (before year 2013),15,6486
+93,Ivy Plus,1,1639
+93,Other elite schools (public and private),2,5856
+93,Highly selective public,3,11186
+93,Highly selective private,4,4014
+93,Selective public,5,35795
+93,Selective private,6,9561
+93,Nonselective four-year public,7,2003
+93,Nonselective four-year private not-for-profit,8,851
+93,Two-year (public and private not-for-profit),9,19034
+93,Four-year for-profit,10,766
+93,Two-year for-profit,11,182
+93,Less than two-year schools of any type,12,56
+93,Attending college with insufficient data,13,6603
+93,Late attender (ages 23-28),14,3930
+93,Never attended college (before year 2013),15,6098
+94,Ivy Plus,1,1938
+94,Other elite schools (public and private),2,6938
+94,Highly selective public,3,11757
+94,Highly selective private,4,4483
+94,Selective public,5,35680
+94,Selective private,6,9632
+94,Nonselective four-year public,7,1998
+94,Nonselective four-year private not-for-profit,8,861
+94,Two-year (public and private not-for-profit),9,17709
+94,Four-year for-profit,10,727
+94,Two-year for-profit,11,197
+94,Less than two-year schools of any type,12,52
+94,Attending college with insufficient data,13,6529
+94,Late attender (ages 23-28),14,3558
+94,Never attended college (before year 2013),15,5514
+95,Ivy Plus,1,2369
+95,Other elite schools (public and private),2,7908
+95,Highly selective public,3,11757
+95,Highly selective private,4,5080
+95,Selective public,5,34909
+95,Selective private,6,10119
+95,Nonselective four-year public,7,1972
+95,Nonselective four-year private not-for-profit,8,973
+95,Two-year (public and private not-for-profit),9,16371
+95,Four-year for-profit,10,732
+95,Two-year for-profit,11,201
+95,Less than two-year schools of any type,12,57
+95,Attending college with insufficient data,13,6451
+95,Late attender (ages 23-28),14,3396
+95,Never attended college (before year 2013),15,5279
+96,Ivy Plus,1,2928
+96,Other elite schools (public and private),2,9325
+96,Highly selective public,3,12133
+96,Highly selective private,4,5612
+96,Selective public,5,34471
+96,Selective private,6,10335
+96,Nonselective four-year public,7,1874
+96,Nonselective four-year private not-for-profit,8,1016
+96,Two-year (public and private not-for-profit),9,14701
+96,Four-year for-profit,10,647
+96,Two-year for-profit,11,167
+96,Less than two-year schools of any type,12,52
+96,Attending college with insufficient data,13,6270
+96,Late attender (ages 23-28),14,3017
+96,Never attended college (before year 2013),15,5025
+97,Ivy Plus,1,3854
+97,Other elite schools (public and private),2,11158
+97,Highly selective public,3,11930
+97,Highly selective private,4,6526
+97,Selective public,5,33052
+97,Selective private,6,10693
+97,Nonselective four-year public,7,1901
+97,Nonselective four-year private not-for-profit,8,996
+97,Two-year (public and private not-for-profit),9,13099
+97,Four-year for-profit,10,606
+97,Two-year for-profit,11,150
+97,Less than two-year schools of any type,12,55
+97,Attending college with insufficient data,13,6165
+97,Late attender (ages 23-28),14,2672
+97,Never attended college (before year 2013),15,4717
+98,Ivy Plus,1,5078
+98,Other elite schools (public and private),2,14004
+98,Highly selective public,3,11297
+98,Highly selective private,4,7760
+98,Selective public,5,31009
+98,Selective private,6,11221
+98,Nonselective four-year public,7,1735
+98,Nonselective four-year private not-for-profit,8,1066
+98,Two-year (public and private not-for-profit),9,11113
+98,Four-year for-profit,10,595
+98,Two-year for-profit,11,145
+98,Less than two-year schools of any type,12,0
+98,Attending college with insufficient data,13,5980
+98,Late attender (ages 23-28),14,2318
+98,Never attended college (before year 2013),15,4204
+99,Ivy Plus,1,7655
+99,Other elite schools (public and private),2,18406
+99,Highly selective public,3,9825
+99,Highly selective private,4,9419
+99,Selective public,5,26187
+99,Selective private,6,11597
+99,Nonselective four-year public,7,1523
+99,Nonselective four-year private not-for-profit,8,1097
+99,Two-year (public and private not-for-profit),9,9209
+99,Four-year for-profit,10,586
+99,Two-year for-profit,11,116
+99,Less than two-year schools of any type,12,0
+99,Attending college with insufficient data,13,6037
+99,Late attender (ages 23-28),14,1982
+99,Never attended college (before year 2013),15,3896
